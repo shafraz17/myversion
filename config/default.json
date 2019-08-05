@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Rajitha:Rajitha123@insfratech-vg0nl.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "7a69dec1b90f7dbf17b0",
+  "githubSecret": "ea6db8178b039d13a504cd3b0077204f76281dac"
+}
